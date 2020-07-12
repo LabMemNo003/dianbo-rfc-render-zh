@@ -1,0 +1,11 @@
+{
+  "name": "dianbo-rfc-render-zh",
+  "version": "0.0.0",
+  "description": "Chinese version of dianbo-rfc-render.",
+  "main": "index.js",
+  "repository": "LabMemNo003/dianbo-rfc-render-zh",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "fs-extra": "^9.0.1"
+  }
+}
